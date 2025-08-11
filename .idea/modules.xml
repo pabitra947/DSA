@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CSES Problem Set/CSES Problem Set.iml" filepath="$PROJECT_DIR$/CSES Problem Set/CSES Problem Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number Guessing Game/Number Guessing Game.iml" filepath="$PROJECT_DIR$/Number Guessing Game/Number Guessing Game.iml" />
     </modules>
   </component>
 </project>
